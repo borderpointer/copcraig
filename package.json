@@ -1,0 +1,22 @@
+{
+  "name": "copcraig",
+  "version": "1.0.0",
+  "description": "slack bot for deleting gifs - copcraig is outto get ya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slack",
+    "bot"
+  ],
+  "author": "borderpointer",
+  "license": "ISC",
+  "dependencies": {
+    "jQuery": "^1.7.4",
+    "jsdom": "^7.1.1",
+    "node-slackbot": "0.0.6",
+    "request": "^2.67.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
