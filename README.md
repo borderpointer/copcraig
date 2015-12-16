@@ -20,5 +20,5 @@ Slackbot that automatically detects gifs posted in channels and deletes them. Th
 
 ## Contribution
 
-Huge thanks to [Thom Page](https://github.com/singular000) for the idea!
+Huge thanks to [Thom Page](https://github.com/singular000) for the idea and [Craig Ramey](https://github.com/TheRamey) for letting me use his photo and name!
 
